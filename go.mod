@@ -3,7 +3,6 @@ module github.com/nicholas-mwaura/goleveldb
 go 1.16
 
 require (
-	github.com/btcsuite/goleveldb v1.0.0
 	github.com/btcsuite/snappy-go v1.0.0
 	github.com/fsnotify/fsnotify v1.5.1 // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
